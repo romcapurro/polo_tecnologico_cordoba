@@ -1,0 +1,1 @@
+{"version":"1.0","connections":[{"details":{"protocol":"tds","address":{"server":"romcapurro.database.windows.net","database":"telecom"}},"mode":"DirectQuery"}]}
