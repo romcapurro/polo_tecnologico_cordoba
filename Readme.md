@@ -36,11 +36,6 @@ El código se centra en el análisis de datos de accesos a Internet en diferente
 2. Ejecuta el código en un entorno que admita la ejecución de scripts de Python.
 3. Asegúrate de tener todas las bibliotecas necesarias instaladas (`pandas`, `matplotlib`, `seaborn`).
 
-## Proyecto: Convertir a la Provincia de Córdoba en Polo Tecnológico
-
-### Objetivos del Proyecto:
-El objetivo principal de este proyecto es transformar a la Provincia de Córdoba en un Polo Tecnológico, promoviendo el acceso a Internet y fomentando el desarrollo de infraestructuras tecnológicas. Para lograrlo, se llevarán a cabo las siguientes acciones:
-
 #### 1. Análisis de Conectividad:
    - Se realizará un análisis detallado de la conectividad en la provincia, identificando áreas con baja conectividad.
    - Se buscará mejorar la infraestructura en las localidades con deficiencias en el acceso a Internet.
