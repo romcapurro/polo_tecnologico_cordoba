@@ -1,0 +1,100 @@
+,Provincia,Partido,Localidad,Link Indec,ADSL,CABLEMODEM,DIAL UP,FIBRA OPTICA,OTROS,SATELITAL,WIMAX,WIRELESS,Total general,Total Conexiones,Porcentaje Fibra Óptica,Unnamed: 0.1,Unnamed: 0,Año,Trimestre,Accesos por cada 100 hogares,Total Conexiones por 100 Hogares
+0,CORDOBA,Calamuchita,Amboy,14007010,,,,,,,,19.0,19,,,,,,,,19.0
+1,CORDOBA,Calamuchita,Cañada del Sauce,14007030,1.0,,,,,,,,1,,,,,,,,1.0
+2,CORDOBA,Calamuchita,Capilla Vieja,14007040,,,,,,,,5.0,5,,,,,,,,5.0
+4,CORDOBA,Calamuchita,Embalse,14007060,,,,,,1.0,,,"3,48",,,,,,,,1.0
+13,CORDOBA,Calamuchita,San Ignacio (Loteo San Javier),14007190,,,,,,,,11.0,11,,,,,,,,11.0
+15,CORDOBA,Calamuchita,Villa Alpina,14007240,,,,,,,,2.0,2,,,,,,,,2.0
+19,CORDOBA,Calamuchita,Villa Ciudad Parque Los Reartes (3a. Sección),14007170,,,,,,,,8.0,8,,,,,,,,8.0
+24,CORDOBA,Calamuchita,Villa San Miguel,14007170,,,,,,,,5.0,5,,,,,,,,5.0
+25,CORDOBA,Calamuchita,Villa Yacanto,14007360,,,,,,,,7.0,7,,,,,,,,7.0
+26,CORDOBA,Calamuchita,Las Caleras,14007100,,,,,,,,7.0,7,,,,,,,,7.0
+27,CORDOBA,Calamuchita,San Ignacio (Loteo Vélez Crespo),14007170,,,,,,,,9.0,9,,,,,,,,9.0
+29,CORDOBA,Calamuchita,Río de los Sauces,14007170,,,,,,,,2.0,2,,,,,,,,2.0
+38,CORDOBA,Colón,Jesús María,14021140,,,,,,,,18.0,"11,4",,,,,,,,18.0
+41,CORDOBA,Colón,Los Molles,14021180,,,,,,2.0,,,2,,,,,,,,2.0
+45,CORDOBA,Colón,Pajas Blancas,14021220,,,,,,,,19.0,19,,,,,,,,19.0
+55,CORDOBA,Colón,Mi Granja,14021210,,,,4.0,,,,,4,,,,,,,,4.0
+56,CORDOBA,Colón,Colonia Tirolesa,14021060,,,,,,,,,"1,6",,,,,,,,0.0
+57,CORDOBA,Cruz del Eje,Alto de los Quebrachos,14028010,,,,,6.0,,,1.0,7,,,,,,,,7.0
+58,CORDOBA,Cruz del Eje,Bañado de Soto,14028020,,,,,,,,8.0,8,,,,,,,,8.0
+59,CORDOBA,Cruz del Eje,Canteras Quilpo,14028030,,,,,,,,2.0,2,,,,,,,,2.0
+60,CORDOBA,Cruz del Eje,Cruz de Caña,14028040,,,,,,,,2.0,2,,,,,,,,2.0
+63,CORDOBA,Cruz del Eje,Guanaco Muerto,14028080,,,,,,,,17.0,17,,,,,,,,17.0
+64,CORDOBA,Cruz del Eje,La Banda,14028090,,,,,,1.0,,,1,,,,,,,,1.0
+65,CORDOBA,Cruz del Eje,La Batea,14028100,,,,,,,,1.0,1,,,,,,,,1.0
+66,CORDOBA,Cruz del Eje,La Higuera,14028110,15.0,,,,,,,2.0,17,,,,,,,,17.0
+68,CORDOBA,Cruz del Eje,Los Chañaritos,14028140,,,,1.0,,,,9.0,10,,,,,,,,10.0
+73,CORDOBA,Cruz del Eje,Tuclame,14028190,,,,,,,,13.0,13,,,,,,,,13.0
+76,CORDOBA,General Roca,Hipólito Bouchard,14035030,,,,,,1.0,,,1,,,,,,,,1.0
+80,CORDOBA,General Roca,PINCÉN,14035090,,,,,9.0,,,,9,,,,,,,,9.0
+85,CORDOBA,General San Martín,Ausonia,14042030,,,,1.0,,,,1.0,2,,,,,,,,2.0
+90,CORDOBA,General San Martín,Pasco,14042110,,,,1.0,,,,,1,,,,,,,,1.0
+94,CORDOBA,General San Martín,Villa María,14042170,,,,,,2.0,,,"30,54",,,,,,,,2.0
+97,CORDOBA,General San Martín,La Palestina,14042070,,,,,,,,1.0,1,,,,,,,,1.0
+99,CORDOBA,Ischilín,Copacabana,14049040,,,,,,,,12.0,12,,,,,,,,12.0
+101,CORDOBA,Ischilín,Esquina del Alambre,14049060,,,,,,,,1.0,1,,,,,,,,1.0
+102,CORDOBA,Ischilín,Olivares de San Nicolás,14049090,,,,,,,,1.0,1,,,,,,,,1.0
+108,CORDOBA,Juárez Celman,Charras,14056050,,,,1.0,,,,12.0,13,,,,,,,,13.0
+110,CORDOBA,Juárez Celman,General Deheza,14056080,8.0,,,,,,,,"4,75",,,,,,,,8.0
+111,CORDOBA,Juárez Celman,Huanchillas,14056090,,,,11.0,,,,,11,,,,,,,,11.0
+120,CORDOBA,Marcos Juárez,Camilo Aldao,14063030,,,,,,1.0,,,"1,15",,,,,,,,1.0
+125,CORDOBA,Marcos Juárez,General Roca,14063120,,,,1.0,,2.0,,,"1,19",,,,,,,,3.0
+132,CORDOBA,Marcos Juárez,Monte Buey,14063190,,,,,,,,,"1,56",,,,,,,,0.0
+133,CORDOBA,Marcos Juárez,Villa Elisa,14063230,,,12.0,,,,,,"1,04",,,,,,,,12.0
+144,CORDOBA,Minas,Talaini,14070070,,,,,,,,23.0,23,,,,,,,,23.0
+147,CORDOBA,Pocho,Las Palmas,14077020,,,,,,,,9.0,9,,,,,,,,9.0
+151,CORDOBA,Pocho,San Gerónimo,14077050,,,,,,,,11.0,11,,,,,,,,11.0
+156,CORDOBA,Presidente Roque Sáenz Peña,Laboulaye,14084030,,,,1.0,1.0,,,,"7,98",,,,,,,,2.0
+162,CORDOBA,Presidente Roque Sáenz Peña,Leguizamón,14084040,,,,1.0,,,,,1,,,,,,,,1.0
+174,CORDOBA,Punilla,Las Jarillas,14091130,,,,,,,,4.0,4,,,,,,,,4.0
+181,CORDOBA,Punilla,Tala Huasi,14091220,,,,,,,,15.0,15,,,,,,,,15.0
+201,CORDOBA,Río Cuarto,LAS ALBAHACAS,14098160,8.0,,,,14.0,,,,22,,,,,,,,22.0
+206,CORDOBA,Río Cuarto,Río Cuarto,14098230,,,1.0,,,7.0,,,"66,81",,,,,,,,8.0
+211,CORDOBA,Río Cuarto,VILLA EL CHACAY,14098300,,,,,4.0,,,,4,,,,,,,,4.0
+213,CORDOBA,Río Cuarto,Coronel Baigorria,14098090,,,,1.0,,,,,1,,,,,,,,1.0
+214,CORDOBA,Río Primero,Cañada de Machado,14105020,,,,,,,,11.0,11,,,,,,,,11.0
+219,CORDOBA,Río Primero,OTROS,Sin Datos,,,,,,,,20.0,20,,,,,,,,20.0
+224,CORDOBA,Río Primero,Diego de Rojas,14105060,,,,1.0,,,,,1,,,,,,,,1.0
+225,CORDOBA,Río Primero,La Quinta,14105140,,,,,,,,21.0,21,,,,,,,,21.0
+226,CORDOBA,Río Seco,Sebastián Elcano,14112110,,,,2.0,,,,,2,,,,,,,,2.0
+232,CORDOBA,Río Segundo,Colazo,14119050,,,,2.0,,1.0,,,3,,,,,,,,3.0
+241,CORDOBA,Río Segundo,Pozo del Molle,14119170,,,,,,,,,"1,89",,,,,,,,0.0
+249,CORDOBA,San Alberto,La Cortadera,14126040,,,,1.0,,,,,1,,,,,,,,1.0
+255,CORDOBA,San Alberto,San Lorenzo,14126140,,,,,,,,20.0,20,,,,,,,,20.0
+258,CORDOBA,San Alberto,Sauce Arriba,14126180,,,,,,,,21.0,21,,,,,,,,21.0
+261,CORDOBA,San Javier,Conlara,14133010,,,,,,,,24.0,24,,,,,,,,24.0
+263,CORDOBA,San Javier,Dos Arroyos,14133040,,,,,,,,5.0,5,,,,,,,,5.0
+264,CORDOBA,San Javier,El Pantanillo,14133050,,,,,,,,4.0,4,,,,,,,,4.0
+267,CORDOBA,San Javier,La Ramada,14133080,,,,,,,,14.0,14,,,,,,,,14.0
+269,CORDOBA,San Javier,Las Chacras,14133095,,,,2.0,,,,,2,,,,,,,,2.0
+271,CORDOBA,San Javier,Loma Bola,14133105,,,,,,,,20.0,20,,,,,,,,20.0
+275,CORDOBA,San Javier,Los Romeros,14133040,,,,,,,,9.0,9,,,,,,,,9.0
+277,CORDOBA,San Javier,Quebracho Ladeado,14133155,,,,,,,,10.0,10,,,,,,,,10.0
+283,CORDOBA,San Javier,Villa La Viña,14133210,,,,,,,,6.0,6,,,,,,,,6.0
+288,CORDOBA,San Justo,Colonia Anita,14140060,,,,,,,,4.0,4,,,,,,,,4.0
+294,CORDOBA,San Justo,El Fuertecito,14140190,,,,,,,,9.0,9,,,,,,,,9.0
+304,CORDOBA,San Justo,Plaza Luxardo,14140310,,,,,,,,6.0,6,,,,,,,,6.0
+305,CORDOBA,San Justo,Plaza San Francisco,14140320,,,,,,,,9.0,9,,,,,,,,9.0
+307,CORDOBA,San Justo,Quebracho Herrado,14140340,,,,,,,,22.0,22,,,,,,,,22.0
+325,CORDOBA,Santa María,La Cumbrecita,14147280,,,,,,,,2.0,2,,,,,,,,2.0
+327,CORDOBA,Santa María,La Rancherita,14147170,,,,,,,,1.0,1,,,,,,,,1.0
+328,CORDOBA,Santa María,La Serranita,14147180,,,,,,,,1.0,1,,,,,,,,1.0
+329,CORDOBA,Santa María,Lozada,14147200,,,,,,,,1.0,1,,,,,,,,1.0
+331,CORDOBA,Santa María,Monte Ralo,14147220,,,,,,,,23.0,23,,,,,,,,23.0
+334,CORDOBA,Santa María,Rafael García,14147240,,,,,,,,1.0,1,,,,,,,,1.0
+335,CORDOBA,Santa María,San Nicolás,14147260,5.0,,,,,,,,5,,,,,,,,5.0
+345,CORDOBA,Santa María,La Carbonada,14147130,,,,,,,,,"2,86",,,,,,,,0.0
+346,CORDOBA,Santa María,José de la Quintana,14147115,,,,,,,,10.0,10,,,,,,,,10.0
+347,CORDOBA,Sobremonte,San Francisco del Chañar,14154050,,,,1.0,,1.0,,,2,,,,,,,,2.0
+348,CORDOBA,Sobremonte,Caminiaga,14154010,,,,2.0,,,,,2,,,,,,,,2.0
+350,CORDOBA,Tercero Arriba,Colonia Almada,14161020,,,,,,,,1.0,1,,,,,,,,1.0
+355,CORDOBA,Tercero Arriba,Las Isletillas,14161080,,,,,,,,8.0,8,,,,,,,,8.0
+358,CORDOBA,Tercero Arriba,Pampayasta Sur,14161130,,,,3.0,,1.0,,,4,,,,,,,,4.0
+362,CORDOBA,Tercero Arriba,Pampayasta Norte,14161120,,,,,,,,1.0,1,,,,,,,,1.0
+363,CORDOBA,Tercero Arriba,Punta del Agua,14161140,,,,,,,,1.0,1,,,,,,,,1.0
+369,CORDOBA,Tulumba,Las Arrias,14175050,7.0,,,,,,,,7,,,,,,,,7.0
+373,CORDOBA,Tulumba,Rosario del Saladillo,14175070,,,,2.0,,,,,2,,,,,,,,2.0
+383,CORDOBA,Unión,Justiniano Posse,14182140,,,,,,,,1.0,"2,87",,,,,,,,1.0
+391,CORDOBA,Unión,Ramón J. Cárcano,14182230,,,,,,,,20.0,20,,,,,,,,20.0
+396,CORDOBA,Unión,Colonia Bismarck,14182110,,7.0,,,,,,15.0,22,,,,,,,,22.0

@@ -1,0 +1,865 @@
+Provincia,Año,Trimestre,KPI,Cumple KPI
+Buenos Aires,2022,4,0.0,False
+Capital Federal,2022,4,inf,True
+Catamarca,2022,4,-183.67,False
+Chaco,2022,4,-27.43,False
+Chubut,2022,4,-385.54,False
+Córdoba,2022,4,-95.8,False
+Corrientes,2022,4,-1139.6,False
+Entre Ríos,2022,4,-157.02,False
+Formosa,2022,4,-260.46,False
+Jujuy,2022,4,-225.79,False
+La Pampa,2022,4,28.59,True
+La Rioja,2022,4,-125.35,False
+Mendoza,2022,4,126.46,True
+Misiones,2022,4,-108.13,False
+Neuquén,2022,4,1584.83,True
+Río Negro,2022,4,-126.67,False
+Salta,2022,4,17.34,True
+San Juan,2022,4,-20.08,False
+San Luis,2022,4,-733.55,False
+Santa Cruz,2022,4,-166.88,False
+Santa Fe,2022,4,-254.71,False
+Santiago Del Estero,2022,4,-148.32,False
+Tierra Del Fuego,2022,4,-387.03,False
+Tucumán,2022,4,-135.85,False
+Buenos Aires,2022,3,-170.22,False
+Capital Federal,2022,3,102.18,True
+Catamarca,2022,3,-182.35,False
+Chaco,2022,3,-29.44,False
+Chubut,2022,3,-381.13,False
+Córdoba,2022,3,-94.96,False
+Corrientes,2022,3,-1074.46,False
+Entre Ríos,2022,3,-170.62,False
+Formosa,2022,3,-197.51,False
+Jujuy,2022,3,-210.71,False
+La Pampa,2022,3,84.75,True
+La Rioja,2022,3,-125.78,False
+Mendoza,2022,3,122.74,True
+Misiones,2022,3,-104.22,False
+Neuquén,2022,3,3454.19,True
+Río Negro,2022,3,-127.99,False
+Salta,2022,3,-2.53,False
+San Juan,2022,3,-19.83,False
+San Luis,2022,3,-605.48,False
+Santa Cruz,2022,3,-177.43,False
+Santa Fe,2022,3,-273.6,False
+Santiago Del Estero,2022,3,-147.54,False
+Tierra Del Fuego,2022,3,-375.95,False
+Tucumán,2022,3,-135.9,False
+Buenos Aires,2022,2,-169.74,False
+Capital Federal,2022,2,109.63,True
+Catamarca,2022,2,-186.15,False
+Chaco,2022,2,-38.59,False
+Chubut,2022,2,-401.71,False
+Córdoba,2022,2,-94.26,False
+Corrientes,2022,2,-966.86,False
+Entre Ríos,2022,2,-171.9,False
+Formosa,2022,2,-199.66,False
+Jujuy,2022,2,-199.88,False
+La Pampa,2022,2,94.35,True
+La Rioja,2022,2,-122.2,False
+Mendoza,2022,2,177.84,True
+Misiones,2022,2,-108.5,False
+Neuquén,2022,2,1645.4,True
+Río Negro,2022,2,-126.73,False
+Salta,2022,2,-0.07,False
+San Juan,2022,2,-7.63,False
+San Luis,2022,2,-565.17,False
+Santa Cruz,2022,2,-172.3,False
+Santa Fe,2022,2,-270.54,False
+Santiago Del Estero,2022,2,-148.14,False
+Tierra Del Fuego,2022,2,-382.05,False
+Tucumán,2022,2,-137.14,False
+Buenos Aires,2022,1,-169.64,False
+Capital Federal,2022,1,66.02,True
+Catamarca,2022,1,-202.09,False
+Chaco,2022,1,-49.28,False
+Chubut,2022,1,-510.7,False
+Córdoba,2022,1,-102.6,False
+Corrientes,2022,1,1609.62,True
+Entre Ríos,2022,1,-175.84,False
+Formosa,2022,1,-233.85,False
+Jujuy,2022,1,-246.45,False
+La Pampa,2022,1,-12.42,False
+La Rioja,2022,1,-124.3,False
+Mendoza,2022,1,171.12,True
+Misiones,2022,1,-101.63,False
+Neuquén,2022,1,8164.52,True
+Río Negro,2022,1,-118.75,False
+Salta,2022,1,69.61,True
+San Juan,2022,1,37.3,True
+San Luis,2022,1,-481.37,False
+Santa Cruz,2022,1,-154.26,False
+Santa Fe,2022,1,-269.21,False
+Santiago Del Estero,2022,1,-149.74,False
+Tierra Del Fuego,2022,1,-378.01,False
+Tucumán,2022,1,-138.4,False
+Buenos Aires,2021,4,-176.5,False
+Capital Federal,2021,4,47.88,True
+Catamarca,2021,4,-206.97,False
+Chaco,2021,4,-59.74,False
+Chubut,2021,4,-531.43,False
+Córdoba,2021,4,-97.31,False
+Corrientes,2021,4,-2063.83,False
+Entre Ríos,2021,4,-184.03,False
+Formosa,2021,4,-217.23,False
+Jujuy,2021,4,-243.47,False
+La Pampa,2021,4,-12.05,False
+La Rioja,2021,4,-122.68,False
+Mendoza,2021,4,200.0,True
+Misiones,2021,4,-108.35,False
+Neuquén,2021,4,1415.64,True
+Río Negro,2021,4,-121.01,False
+Salta,2021,4,30.25,True
+San Juan,2021,4,124.19,True
+San Luis,2021,4,-439.26,False
+Santa Cruz,2021,4,-145.11,False
+Santa Fe,2021,4,-270.45,False
+Santiago Del Estero,2021,4,-149.29,False
+Tierra Del Fuego,2021,4,-380.06,False
+Tucumán,2021,4,-139.55,False
+Buenos Aires,2021,3,-165.25,False
+Capital Federal,2021,3,96.13,True
+Catamarca,2021,3,-195.29,False
+Chaco,2021,3,-64.85,False
+Chubut,2021,3,-574.97,False
+Córdoba,2021,3,-99.19,False
+Corrientes,2021,3,-6404.23,False
+Entre Ríos,2021,3,-185.99,False
+Formosa,2021,3,-217.9,False
+Jujuy,2021,3,-241.01,False
+La Pampa,2021,3,-19.77,False
+La Rioja,2021,3,-116.23,False
+Mendoza,2021,3,392.68,True
+Misiones,2021,3,-100.1,False
+Neuquén,2021,3,132325.0,True
+Río Negro,2021,3,-120.96,False
+Salta,2021,3,-12.61,False
+San Juan,2021,3,204.02,True
+San Luis,2021,3,-447.27,False
+Santa Cruz,2021,3,-144.16,False
+Santa Fe,2021,3,-258.05,False
+Santiago Del Estero,2021,3,-152.26,False
+Tierra Del Fuego,2021,3,-373.15,False
+Tucumán,2021,3,-141.61,False
+Buenos Aires,2021,2,-166.22,False
+Capital Federal,2021,2,103.98,True
+Catamarca,2021,2,-191.52,False
+Chaco,2021,2,-67.21,False
+Chubut,2021,2,-488.38,False
+Córdoba,2021,2,-83.8,False
+Corrientes,2021,2,-521.61,False
+Entre Ríos,2021,2,-191.15,False
+Formosa,2021,2,-210.79,False
+Jujuy,2021,2,-249.77,False
+La Pampa,2021,2,-33.25,False
+La Rioja,2021,2,-113.47,False
+Mendoza,2021,2,653.3,True
+Misiones,2021,2,-121.08,False
+Neuquén,2021,2,443.71,True
+Río Negro,2021,2,-119.42,False
+Salta,2021,2,8.74,True
+San Juan,2021,2,151.68,True
+San Luis,2021,2,-494.98,False
+Santa Cruz,2021,2,-142.02,False
+Santa Fe,2021,2,-249.26,False
+Santiago Del Estero,2021,2,-153.82,False
+Tierra Del Fuego,2021,2,-220.62,False
+Tucumán,2021,2,-141.67,False
+Buenos Aires,2021,1,-235.2,False
+Capital Federal,2021,1,120.38,True
+Catamarca,2021,1,-196.52,False
+Chaco,2021,1,-78.54,False
+Chubut,2021,1,-608.66,False
+Córdoba,2021,1,-76.77,False
+Corrientes,2021,1,-428.45,False
+Entre Ríos,2021,1,-191.16,False
+Formosa,2021,1,-210.0,False
+Jujuy,2021,1,-252.61,False
+La Pampa,2021,1,-32.81,False
+La Rioja,2021,1,-183.15,False
+Mendoza,2021,1,-45.25,False
+Misiones,2021,1,-147.99,False
+Neuquén,2021,1,433.89,True
+Río Negro,2021,1,-116.27,False
+Salta,2021,1,28.03,True
+San Juan,2021,1,141.42,True
+San Luis,2021,1,-491.69,False
+Santa Cruz,2021,1,-145.12,False
+Santa Fe,2021,1,-259.0,False
+Santiago Del Estero,2021,1,-149.33,False
+Tierra Del Fuego,2021,1,-281.5,False
+Tucumán,2021,1,-141.99,False
+Buenos Aires,2020,4,-188.67,False
+Capital Federal,2020,4,120.75,True
+Catamarca,2020,4,-195.37,False
+Chaco,2020,4,-76.26,False
+Chubut,2020,4,-555.77,False
+Córdoba,2020,4,-75.8,False
+Corrientes,2020,4,-420.65,False
+Entre Ríos,2020,4,-187.95,False
+Formosa,2020,4,-212.97,False
+Jujuy,2020,4,-242.25,False
+La Pampa,2020,4,-17.94,False
+La Rioja,2020,4,-173.11,False
+Mendoza,2020,4,-40.83,False
+Misiones,2020,4,-145.31,False
+Neuquén,2020,4,450.39,True
+Río Negro,2020,4,-115.44,False
+Salta,2020,4,30.84,True
+San Juan,2020,4,184.14,True
+San Luis,2020,4,-480.88,False
+Santa Cruz,2020,4,-143.8,False
+Santa Fe,2020,4,-280.73,False
+Santiago Del Estero,2020,4,-141.01,False
+Tierra Del Fuego,2020,4,-283.35,False
+Tucumán,2020,4,-137.91,False
+Buenos Aires,2020,3,-183.43,False
+Capital Federal,2020,3,151.6,True
+Catamarca,2020,3,-195.01,False
+Chaco,2020,3,-78.79,False
+Chubut,2020,3,-641.28,False
+Córdoba,2020,3,-84.39,False
+Corrientes,2020,3,-541.91,False
+Entre Ríos,2020,3,-188.49,False
+Formosa,2020,3,-214.68,False
+Jujuy,2020,3,-253.57,False
+La Pampa,2020,3,-32.7,False
+La Rioja,2020,3,-178.79,False
+Mendoza,2020,3,-30.7,False
+Misiones,2020,3,-144.66,False
+Neuquén,2020,3,399.38,True
+Río Negro,2020,3,-122.08,False
+Salta,2020,3,-33.94,False
+San Juan,2020,3,211.94,True
+San Luis,2020,3,-510.44,False
+Santa Cruz,2020,3,-151.86,False
+Santa Fe,2020,3,-282.79,False
+Santiago Del Estero,2020,3,-139.61,False
+Tierra Del Fuego,2020,3,-293.38,False
+Tucumán,2020,3,-139.84,False
+Buenos Aires,2020,2,-173.36,False
+Capital Federal,2020,2,180.46,True
+Catamarca,2020,2,-190.74,False
+Chaco,2020,2,-78.49,False
+Chubut,2020,2,-456.53,False
+Córdoba,2020,2,-39.01,False
+Corrientes,2020,2,-266.24,False
+Entre Ríos,2020,2,-190.42,False
+Formosa,2020,2,-211.46,False
+Jujuy,2020,2,-219.75,False
+La Pampa,2020,2,9.52,True
+La Rioja,2020,2,-158.58,False
+Mendoza,2020,2,-20.98,False
+Misiones,2020,2,-146.94,False
+Neuquén,2020,2,339.61,True
+Río Negro,2020,2,-120.93,False
+Salta,2020,2,-27.84,False
+San Juan,2020,2,276.12,True
+San Luis,2020,2,-486.14,False
+Santa Cruz,2020,2,-144.03,False
+Santa Fe,2020,2,-275.85,False
+Santiago Del Estero,2020,2,-139.65,False
+Tierra Del Fuego,2020,2,-299.68,False
+Tucumán,2020,2,-142.55,False
+Buenos Aires,2020,1,-175.28,False
+Capital Federal,2020,1,167.08,True
+Catamarca,2020,1,-199.63,False
+Chaco,2020,1,-99.43,False
+Chubut,2020,1,-10043.24,False
+Córdoba,2020,1,2.96,True
+Corrientes,2020,1,-219.35,False
+Entre Ríos,2020,1,-199.31,False
+Formosa,2020,1,-202.74,False
+Jujuy,2020,1,-217.88,False
+La Pampa,2020,1,14.66,True
+La Rioja,2020,1,-162.28,False
+Mendoza,2020,1,-26.6,False
+Misiones,2020,1,-162.25,False
+Neuquén,2020,1,229.82,True
+Río Negro,2020,1,-118.6,False
+Salta,2020,1,-8.0,False
+San Juan,2020,1,246.65,True
+San Luis,2020,1,-490.78,False
+Santa Cruz,2020,1,-138.98,False
+Santa Fe,2020,1,-276.45,False
+Santiago Del Estero,2020,1,-141.72,False
+Tierra Del Fuego,2020,1,-303.32,False
+Tucumán,2020,1,-146.9,False
+Buenos Aires,2019,4,-192.37,False
+Capital Federal,2019,4,90.75,True
+Catamarca,2019,4,-200.5,False
+Chaco,2019,4,-101.67,False
+Chubut,2019,4,3430.91,True
+Córdoba,2019,4,-2.7,False
+Corrientes,2019,4,-219.05,False
+Entre Ríos,2019,4,-210.18,False
+Formosa,2019,4,-195.74,False
+Jujuy,2019,4,-203.1,False
+La Pampa,2019,4,42.04,True
+La Rioja,2019,4,-155.71,False
+Mendoza,2019,4,-26.08,False
+Misiones,2019,4,-163.77,False
+Neuquén,2019,4,169.48,True
+Río Negro,2019,4,-112.51,False
+Salta,2019,4,56.42,True
+San Juan,2019,4,261.33,True
+San Luis,2019,4,-468.44,False
+Santa Cruz,2019,4,-139.82,False
+Santa Fe,2019,4,-275.04,False
+Santiago Del Estero,2019,4,-142.83,False
+Tierra Del Fuego,2019,4,-324.14,False
+Tucumán,2019,4,-146.92,False
+Buenos Aires,2019,3,-213.31,False
+Capital Federal,2019,3,36.98,True
+Catamarca,2019,3,-216.31,False
+Chaco,2019,3,-122.17,False
+Chubut,2019,3,103.17,True
+Córdoba,2019,3,35.18,True
+Corrientes,2019,3,-199.3,False
+Entre Ríos,2019,3,-214.93,False
+Formosa,2019,3,-195.18,False
+Jujuy,2019,3,-198.31,False
+La Pampa,2019,3,58.4,True
+La Rioja,2019,3,-150.97,False
+Mendoza,2019,3,-60.58,False
+Misiones,2019,3,-76.96,False
+Neuquén,2019,3,-1923.12,False
+Río Negro,2019,3,-101.78,False
+Salta,2019,3,2566.07,True
+San Juan,2019,3,-44.14,False
+San Luis,2019,3,-879.26,False
+Santa Cruz,2019,3,-144.78,False
+Santa Fe,2019,3,-260.29,False
+Santiago Del Estero,2019,3,-121.12,False
+Tierra Del Fuego,2019,3,-477.82,False
+Tucumán,2019,3,-179.35,False
+Buenos Aires,2019,2,-221.61,False
+Capital Federal,2019,2,-12.38,False
+Catamarca,2019,2,-212.73,False
+Chaco,2019,2,-108.82,False
+Chubut,2019,2,501.28,True
+Córdoba,2019,2,19.18,True
+Corrientes,2019,2,-197.95,False
+Entre Ríos,2019,2,-215.23,False
+Formosa,2019,2,-192.99,False
+Jujuy,2019,2,-198.39,False
+La Pampa,2019,2,57.97,True
+La Rioja,2019,2,-150.32,False
+Mendoza,2019,2,-55.68,False
+Misiones,2019,2,-75.92,False
+Neuquén,2019,2,-1655.22,False
+Río Negro,2019,2,-105.15,False
+Salta,2019,2,897.78,True
+San Juan,2019,2,-52.21,False
+San Luis,2019,2,-963.85,False
+Santa Cruz,2019,2,-149.89,False
+Santa Fe,2019,2,-306.53,False
+Santiago Del Estero,2019,2,-116.23,False
+Tierra Del Fuego,2019,2,-466.73,False
+Tucumán,2019,2,-172.46,False
+Buenos Aires,2019,1,-212.76,False
+Capital Federal,2019,1,-0.25,False
+Catamarca,2019,1,-208.73,False
+Chaco,2019,1,-101.99,False
+Chubut,2019,1,2167.14,True
+Córdoba,2019,1,65.0,True
+Corrientes,2019,1,-188.56,False
+Entre Ríos,2019,1,-232.95,False
+Formosa,2019,1,-177.42,False
+Jujuy,2019,1,-218.08,False
+La Pampa,2019,1,14.44,True
+La Rioja,2019,1,-153.14,False
+Mendoza,2019,1,-27.22,False
+Misiones,2019,1,-85.09,False
+Neuquén,2019,1,-1776.88,False
+Río Negro,2019,1,-114.46,False
+Salta,2019,1,178.71,True
+San Juan,2019,1,-17.98,False
+San Luis,2019,1,-641.03,False
+Santa Cruz,2019,1,-158.13,False
+Santa Fe,2019,1,-382.08,False
+Santiago Del Estero,2019,1,-124.04,False
+Tierra Del Fuego,2019,1,-438.59,False
+Tucumán,2019,1,-137.22,False
+Buenos Aires,2018,4,-199.57,False
+Capital Federal,2018,4,22.51,True
+Catamarca,2018,4,-203.89,False
+Chaco,2018,4,-101.59,False
+Chubut,2018,4,2645.54,True
+Córdoba,2018,4,71.58,True
+Corrientes,2018,4,-188.87,False
+Entre Ríos,2018,4,-222.16,False
+Formosa,2018,4,-179.09,False
+Jujuy,2018,4,-224.64,False
+La Pampa,2018,4,2.62,True
+La Rioja,2018,4,-154.35,False
+Mendoza,2018,4,-20.61,False
+Misiones,2018,4,-64.92,False
+Neuquén,2018,4,-914.94,False
+Río Negro,2018,4,-117.08,False
+Salta,2018,4,90.42,True
+San Juan,2018,4,-14.62,False
+San Luis,2018,4,-663.02,False
+Santa Cruz,2018,4,-158.1,False
+Santa Fe,2018,4,-372.4,False
+Santiago Del Estero,2018,4,-124.3,False
+Tierra Del Fuego,2018,4,-449.56,False
+Tucumán,2018,4,-136.86,False
+Buenos Aires,2018,3,-198.07,False
+Capital Federal,2018,3,25.76,True
+Catamarca,2018,3,-201.96,False
+Chaco,2018,3,-97.21,False
+Chubut,2018,3,-3950.0,False
+Córdoba,2018,3,-81.36,False
+Corrientes,2018,3,-435.34,False
+Entre Ríos,2018,3,-199.89,False
+Formosa,2018,3,-188.14,False
+Jujuy,2018,3,-48.0,False
+La Pampa,2018,3,-1075.53,False
+La Rioja,2018,3,-114.05,False
+Mendoza,2018,3,-14.3,False
+Misiones,2018,3,-38.27,False
+Neuquén,2018,3,-670.58,False
+Río Negro,2018,3,-118.6,False
+Salta,2018,3,33.62,True
+San Juan,2018,3,-26.39,False
+San Luis,2018,3,-460.94,False
+Santa Cruz,2018,3,-164.18,False
+Santa Fe,2018,3,-350.11,False
+Santiago Del Estero,2018,3,-145.69,False
+Tierra Del Fuego,2018,3,-464.04,False
+Tucumán,2018,3,-135.32,False
+Buenos Aires,2018,2,-191.92,False
+Capital Federal,2018,2,37.67,True
+Catamarca,2018,2,-199.23,False
+Chaco,2018,2,-92.91,False
+Chubut,2018,2,-1644.49,False
+Córdoba,2018,2,-79.85,False
+Corrientes,2018,2,-405.31,False
+Entre Ríos,2018,2,-197.77,False
+Formosa,2018,2,-188.27,False
+Jujuy,2018,2,-49.25,False
+La Pampa,2018,2,-1096.57,False
+La Rioja,2018,2,-113.9,False
+Mendoza,2018,2,-2.69,False
+Misiones,2018,2,-47.45,False
+Neuquén,2018,2,-726.39,False
+Río Negro,2018,2,-118.52,False
+Salta,2018,2,21.55,True
+San Juan,2018,2,-14.05,False
+San Luis,2018,2,208.69,True
+Santa Cruz,2018,2,-322.14,False
+Santa Fe,2018,2,-26.89,False
+Santiago Del Estero,2018,2,-149.75,False
+Tierra Del Fuego,2018,2,-466.12,False
+Tucumán,2018,2,-134.22,False
+Buenos Aires,2018,1,-193.03,False
+Capital Federal,2018,1,36.85,True
+Catamarca,2018,1,-199.3,False
+Chaco,2018,1,-91.35,False
+Chubut,2018,1,-1341.64,False
+Córdoba,2018,1,-75.43,False
+Corrientes,2018,1,-366.34,False
+Entre Ríos,2018,1,-200.97,False
+Formosa,2018,1,-214.25,False
+Jujuy,2018,1,-114.35,False
+La Pampa,2018,1,2516.17,True
+La Rioja,2018,1,-113.46,False
+Mendoza,2018,1,-1.31,False
+Misiones,2018,1,-41.02,False
+Neuquén,2018,1,-698.97,False
+Río Negro,2018,1,-119.27,False
+Salta,2018,1,5.94,True
+San Juan,2018,1,-10.57,False
+San Luis,2018,1,197.11,True
+Santa Cruz,2018,1,-326.84,False
+Santa Fe,2018,1,-29.49,False
+Santiago Del Estero,2018,1,-151.17,False
+Tierra Del Fuego,2018,1,-297.03,False
+Tucumán,2018,1,-142.67,False
+Buenos Aires,2017,4,-208.31,False
+Capital Federal,2017,4,184.04,True
+Catamarca,2017,4,-167.69,False
+Chaco,2017,4,-109.97,False
+Chubut,2017,4,776.08,True
+Córdoba,2017,4,-65.58,False
+Corrientes,2017,4,-310.88,False
+Entre Ríos,2017,4,-197.14,False
+Formosa,2017,4,-217.63,False
+Jujuy,2017,4,-112.43,False
+La Pampa,2017,4,2974.53,True
+La Rioja,2017,4,-112.91,False
+Mendoza,2017,4,28.99,True
+Misiones,2017,4,-81.42,False
+Neuquén,2017,4,-1571.23,False
+Río Negro,2017,4,-120.04,False
+Salta,2017,4,0.15,False
+San Juan,2017,4,23.04,True
+San Luis,2017,4,172.52,True
+Santa Cruz,2017,4,-365.93,False
+Santa Fe,2017,4,-34.41,False
+Santiago Del Estero,2017,4,-146.54,False
+Tierra Del Fuego,2017,4,-300.0,False
+Tucumán,2017,4,-131.61,False
+Buenos Aires,2017,3,-218.09,False
+Capital Federal,2017,3,202.0,True
+Catamarca,2017,3,-161.6,False
+Chaco,2017,3,-89.46,False
+Chubut,2017,3,-800.78,False
+Córdoba,2017,3,-35.74,False
+Corrientes,2017,3,-238.95,False
+Entre Ríos,2017,3,-188.63,False
+Formosa,2017,3,-224.91,False
+Jujuy,2017,3,-111.37,False
+La Pampa,2017,3,3270.28,True
+La Rioja,2017,3,-112.45,False
+Mendoza,2017,3,19.87,True
+Misiones,2017,3,-49.8,False
+Neuquén,2017,3,-759.04,False
+Río Negro,2017,3,-119.97,False
+Salta,2017,3,-11.61,False
+San Juan,2017,3,4.81,True
+San Luis,2017,3,178.29,True
+Santa Cruz,2017,3,-320.49,False
+Santa Fe,2017,3,-27.88,False
+Santiago Del Estero,2017,3,-151.03,False
+Tierra Del Fuego,2017,3,-305.93,False
+Tucumán,2017,3,-145.43,False
+Buenos Aires,2017,2,-205.38,False
+Capital Federal,2017,2,188.62,True
+Catamarca,2017,2,-165.63,False
+Chaco,2017,2,-114.95,False
+Chubut,2017,2,89.34,True
+Córdoba,2017,2,194.37,True
+Corrientes,2017,2,-170.99,False
+Entre Ríos,2017,2,-195.36,False
+Formosa,2017,2,-225.56,False
+Jujuy,2017,2,-121.73,False
+La Pampa,2017,2,1407.31,True
+La Rioja,2017,2,-140.6,False
+Mendoza,2017,2,-228.96,False
+Misiones,2017,2,-105.48,False
+Neuquén,2017,2,-2110.46,False
+Río Negro,2017,2,-124.27,False
+Salta,2017,2,12.43,True
+San Juan,2017,2,-38.84,False
+San Luis,2017,2,266.74,True
+Santa Cruz,2017,2,-371.95,False
+Santa Fe,2017,2,-43.69,False
+Santiago Del Estero,2017,2,-173.64,False
+Tierra Del Fuego,2017,2,-627.25,False
+Tucumán,2017,2,-111.49,False
+Buenos Aires,2017,1,-220.67,False
+Capital Federal,2017,1,59.35,True
+Catamarca,2017,1,-189.76,False
+Chaco,2017,1,-115.12,False
+Chubut,2017,1,113.17,True
+Córdoba,2017,1,150.69,True
+Corrientes,2017,1,-175.13,False
+Entre Ríos,2017,1,-197.45,False
+Formosa,2017,1,-223.63,False
+Jujuy,2017,1,-126.37,False
+La Pampa,2017,1,1091.24,True
+La Rioja,2017,1,-142.29,False
+Mendoza,2017,1,-230.2,False
+Misiones,2017,1,-107.55,False
+Neuquén,2017,1,-1563.79,False
+Río Negro,2017,1,-123.03,False
+Salta,2017,1,18.93,True
+San Juan,2017,1,-41.82,False
+San Luis,2017,1,280.47,True
+Santa Cruz,2017,1,-374.74,False
+Santa Fe,2017,1,-45.99,False
+Santiago Del Estero,2017,1,-174.72,False
+Tierra Del Fuego,2017,1,-614.35,False
+Tucumán,2017,1,-112.2,False
+Buenos Aires,2016,4,-236.81,False
+Capital Federal,2016,4,57.49,True
+Catamarca,2016,4,-180.43,False
+Chaco,2016,4,-110.87,False
+Chubut,2016,4,198.23,True
+Córdoba,2016,4,137.13,True
+Corrientes,2016,4,-177.22,False
+Entre Ríos,2016,4,-199.18,False
+Formosa,2016,4,-222.12,False
+Jujuy,2016,4,-125.16,False
+La Pampa,2016,4,1163.15,True
+La Rioja,2016,4,-141.45,False
+Mendoza,2016,4,-228.7,False
+Misiones,2016,4,-107.82,False
+Neuquén,2016,4,-1508.74,False
+Río Negro,2016,4,-122.7,False
+Salta,2016,4,24.13,True
+San Juan,2016,4,-44.06,False
+San Luis,2016,4,291.53,True
+Santa Cruz,2016,4,-379.22,False
+Santa Fe,2016,4,-48.54,False
+Santiago Del Estero,2016,4,-176.52,False
+Tierra Del Fuego,2016,4,-615.41,False
+Tucumán,2016,4,-112.54,False
+Buenos Aires,2016,3,-226.9,False
+Capital Federal,2016,3,72.77,True
+Catamarca,2016,3,-177.44,False
+Chaco,2016,3,-111.76,False
+Chubut,2016,3,173.97,True
+Córdoba,2016,3,142.43,True
+Corrientes,2016,3,-176.51,False
+Entre Ríos,2016,3,-199.14,False
+Formosa,2016,3,-227.52,False
+Jujuy,2016,3,-136.11,False
+La Pampa,2016,3,712.3,True
+La Rioja,2016,3,-141.82,False
+Mendoza,2016,3,-221.62,False
+Misiones,2016,3,-107.72,False
+Neuquén,2016,3,-1591.9,False
+Río Negro,2016,3,-122.66,False
+Salta,2016,3,26.14,True
+San Juan,2016,3,-40.9,False
+San Luis,2016,3,278.43,True
+Santa Cruz,2016,3,-376.0,False
+Santa Fe,2016,3,-46.15,False
+Santiago Del Estero,2016,3,-173.66,False
+Tierra Del Fuego,2016,3,-593.31,False
+Tucumán,2016,3,-112.87,False
+Buenos Aires,2016,2,-225.66,False
+Capital Federal,2016,2,80.82,True
+Catamarca,2016,2,-176.53,False
+Chaco,2016,2,-112.35,False
+Chubut,2016,2,172.39,True
+Córdoba,2016,2,125.25,True
+Corrientes,2016,2,-178.98,False
+Entre Ríos,2016,2,-198.8,False
+Formosa,2016,2,-222.48,False
+Jujuy,2016,2,-122.94,False
+La Pampa,2016,2,1253.65,True
+La Rioja,2016,2,-140.92,False
+Mendoza,2016,2,-225.35,False
+Misiones,2016,2,-109.95,False
+Neuquén,2016,2,-1235.93,False
+Río Negro,2016,2,-121.31,False
+Salta,2016,2,40.72,True
+San Juan,2016,2,-51.73,False
+San Luis,2016,2,339.04,True
+Santa Cruz,2016,2,-374.99,False
+Santa Fe,2016,2,-46.1,False
+Santiago Del Estero,2016,2,-172.47,False
+Tierra Del Fuego,2016,2,-567.98,False
+Tucumán,2016,2,-113.8,False
+Buenos Aires,2016,1,-219.91,False
+Capital Federal,2016,1,86.84,True
+Catamarca,2016,1,-176.85,False
+Chaco,2016,1,-110.81,False
+Chubut,2016,1,240.45,True
+Córdoba,2016,1,86.37,True
+Corrientes,2016,1,-185.74,False
+Entre Ríos,2016,1,-200.42,False
+Formosa,2016,1,-223.59,False
+Jujuy,2016,1,-122.0,False
+La Pampa,2016,1,1266.67,True
+La Rioja,2016,1,-141.67,False
+Mendoza,2016,1,-228.14,False
+Misiones,2016,1,-112.85,False
+Neuquén,2016,1,-926.99,False
+Río Negro,2016,1,-118.42,False
+Salta,2016,1,78.18,True
+San Juan,2016,1,-59.79,False
+San Luis,2016,1,409.5,True
+Santa Cruz,2016,1,-377.6,False
+Santa Fe,2016,1,-49.59,False
+Santiago Del Estero,2016,1,-175.29,False
+Tierra Del Fuego,2016,1,-547.59,False
+Tucumán,2016,1,-114.45,False
+Buenos Aires,2015,4,-232.84,False
+Capital Federal,2015,4,74.77,True
+Catamarca,2015,4,-175.77,False
+Chaco,2015,4,-110.34,False
+Chubut,2015,4,274.63,True
+Córdoba,2015,4,84.23,True
+Corrientes,2015,4,-184.9,False
+Entre Ríos,2015,4,-196.35,False
+Formosa,2015,4,-225.07,False
+Jujuy,2015,4,-122.18,False
+La Pampa,2015,4,1279.51,True
+La Rioja,2015,4,-140.6,False
+Mendoza,2015,4,-224.21,False
+Misiones,2015,4,-113.36,False
+Neuquén,2015,4,-981.79,False
+Río Negro,2015,4,-119.71,False
+Salta,2015,4,57.3,True
+San Juan,2015,4,-61.1,False
+San Luis,2015,4,421.7,True
+Santa Cruz,2015,4,-386.1,False
+Santa Fe,2015,4,-51.72,False
+Santiago Del Estero,2015,4,-175.5,False
+Tierra Del Fuego,2015,4,-529.81,False
+Tucumán,2015,4,-115.21,False
+Buenos Aires,2015,3,-225.84,False
+Capital Federal,2015,3,88.68,True
+Catamarca,2015,3,-174.39,False
+Chaco,2015,3,-110.39,False
+Chubut,2015,3,289.78,True
+Córdoba,2015,3,74.0,True
+Corrientes,2015,3,-185.6,False
+Entre Ríos,2015,3,-194.99,False
+Formosa,2015,3,-227.0,False
+Jujuy,2015,3,-122.68,False
+La Pampa,2015,3,1237.21,True
+La Rioja,2015,3,-140.82,False
+Mendoza,2015,3,-227.04,False
+Misiones,2015,3,-114.39,False
+Neuquén,2015,3,-821.52,False
+Río Negro,2015,3,-116.2,False
+Salta,2015,3,118.02,True
+San Juan,2015,3,-65.66,False
+San Luis,2015,3,476.47,True
+Santa Cruz,2015,3,-384.01,False
+Santa Fe,2015,3,-51.79,False
+Santiago Del Estero,2015,3,-175.57,False
+Tierra Del Fuego,2015,3,-602.11,False
+Tucumán,2015,3,-115.15,False
+Buenos Aires,2015,2,-207.93,False
+Capital Federal,2015,2,89.21,True
+Catamarca,2015,2,-174.82,False
+Chaco,2015,2,-110.12,False
+Chubut,2015,2,320.38,True
+Córdoba,2015,2,58.78,True
+Corrientes,2015,2,-189.25,False
+Entre Ríos,2015,2,-195.9,False
+Formosa,2015,2,-226.81,False
+Jujuy,2015,2,-118.36,False
+La Pampa,2015,2,1607.9,True
+La Rioja,2015,2,-139.13,False
+Mendoza,2015,2,-231.68,False
+Misiones,2015,2,-117.11,False
+Neuquén,2015,2,-695.58,False
+Río Negro,2015,2,-114.26,False
+Salta,2015,2,151.12,True
+San Juan,2015,2,-72.56,False
+San Luis,2015,2,600.54,True
+Santa Cruz,2015,2,-375.6,False
+Santa Fe,2015,2,-50.18,False
+Santiago Del Estero,2015,2,-174.74,False
+Tierra Del Fuego,2015,2,-603.95,False
+Tucumán,2015,2,-115.53,False
+Buenos Aires,2015,1,-211.21,False
+Capital Federal,2015,1,79.2,True
+Catamarca,2015,1,-175.27,False
+Chaco,2015,1,-107.84,False
+Chubut,2015,1,570.96,True
+Córdoba,2015,1,10.48,True
+Corrientes,2015,1,-203.59,False
+Entre Ríos,2015,1,-196.28,False
+Formosa,2015,1,-225.62,False
+Jujuy,2015,1,-115.21,False
+La Pampa,2015,1,2000.69,True
+La Rioja,2015,1,-138.43,False
+Mendoza,2015,1,-234.2,False
+Misiones,2015,1,-119.95,False
+Neuquén,2015,1,-620.57,False
+Río Negro,2015,1,-113.07,False
+Salta,2015,1,165.31,True
+San Juan,2015,1,-75.74,False
+San Luis,2015,1,689.27,True
+Santa Cruz,2015,1,-390.42,False
+Santa Fe,2015,1,-57.71,False
+Santiago Del Estero,2015,1,-183.08,False
+Tierra Del Fuego,2015,1,-607.43,False
+Tucumán,2015,1,-115.74,False
+Buenos Aires,2014,4,-213.56,False
+Capital Federal,2014,4,75.07,True
+Catamarca,2014,4,-174.2,False
+Chaco,2014,4,-81.66,False
+Chubut,2014,4,-688.93,False
+Córdoba,2014,4,-57.28,False
+Corrientes,2014,4,-258.58,False
+Entre Ríos,2014,4,-192.97,False
+Formosa,2014,4,-194.75,False
+Jujuy,2014,4,-118.21,False
+La Pampa,2014,4,1669.77,True
+La Rioja,2014,4,-141.35,False
+Mendoza,2014,4,-237.52,False
+Misiones,2014,4,-128.27,False
+Neuquén,2014,4,-552.31,False
+Río Negro,2014,4,-111.45,False
+Salta,2014,4,160.74,True
+San Juan,2014,4,-85.6,False
+San Luis,2014,4,1188.91,True
+Santa Cruz,2014,4,-382.62,False
+Santa Fe,2014,4,-56.59,False
+Santiago Del Estero,2014,4,-181.97,False
+Tierra Del Fuego,2014,4,-532.29,False
+Tucumán,2014,4,-116.47,False
+Buenos Aires,2014,3,-230.19,False
+Capital Federal,2014,3,65.7,True
+Catamarca,2014,3,-177.88,False
+Chaco,2014,3,-81.39,False
+Chubut,2014,3,-733.7,False
+Córdoba,2014,3,-63.64,False
+Corrientes,2014,3,-272.71,False
+Entre Ríos,2014,3,-192.26,False
+Formosa,2014,3,-191.98,False
+Jujuy,2014,3,-106.87,False
+La Pampa,2014,3,5925.15,True
+La Rioja,2014,3,-134.57,False
+Mendoza,2014,3,-235.94,False
+Misiones,2014,3,-128.27,False
+Neuquén,2014,3,-614.94,False
+Río Negro,2014,3,-112.99,False
+Salta,2014,3,103.15,True
+San Juan,2014,3,-87.24,False
+San Luis,2014,3,1288.7,True
+Santa Cruz,2014,3,-392.85,False
+Santa Fe,2014,3,-61.05,False
+Santiago Del Estero,2014,3,-189.5,False
+Tierra Del Fuego,2014,3,-548.8,False
+Tucumán,2014,3,-116.2,False
+Buenos Aires,2014,2,-228.76,False
+Capital Federal,2014,2,69.5,True
+Catamarca,2014,2,-174.11,False
+Chaco,2014,2,-80.63,False
+Chubut,2014,2,-744.45,False
+Córdoba,2014,2,-70.2,False
+Corrientes,2014,2,-298.59,False
+Entre Ríos,2014,2,-192.87,False
+Formosa,2014,2,-192.19,False
+Jujuy,2014,2,-113.49,False
+La Pampa,2014,2,2384.11,True
+La Rioja,2014,2,-140.32,False
+Mendoza,2014,2,-241.52,False
+Misiones,2014,2,-128.77,False
+Neuquén,2014,2,-532.13,False
+Río Negro,2014,2,-109.22,False
+Salta,2014,2,234.13,True
+San Juan,2014,2,-89.2,False
+San Luis,2014,2,1562.66,True
+Santa Cruz,2014,2,-411.12,False
+Santa Fe,2014,2,-68.01,False
+Santiago Del Estero,2014,2,-201.22,False
+Tierra Del Fuego,2014,2,-535.78,False
+Tucumán,2014,2,-116.56,False
+Buenos Aires,2014,1,-228.58,False
+Capital Federal,2014,1,73.91,True
+Catamarca,2014,1,-174.17,False
+Chaco,2014,1,-81.43,False
+Chubut,2014,1,-780.15,False
+Córdoba,2014,1,-72.38,False
+Corrientes,2014,1,-310.24,False
+Entre Ríos,2014,1,-193.9,False
+Formosa,2014,1,-191.35,False
+Jujuy,2014,1,-111.64,False
+La Pampa,2014,1,2738.33,True
+La Rioja,2014,1,-140.73,False
+Mendoza,2014,1,-244.5,False
+Misiones,2014,1,-128.66,False
+Neuquén,2014,1,-519.1,False
+Río Negro,2014,1,-108.51,False
+Salta,2014,1,268.27,True
+San Juan,2014,1,-89.39,False
+San Luis,2014,1,1626.37,True
+Santa Cruz,2014,1,-416.88,False
+Santa Fe,2014,1,-68.81,False
+Santiago Del Estero,2014,1,-200.87,False
+Tierra Del Fuego,2014,1,-543.35,False
+Tucumán,2014,1,-116.34,False
