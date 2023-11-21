@@ -55,7 +55,8 @@ with tabs[1]:
     # conn_type = st.selectbox('Tipo de conexión:', [
     #     'TODAS', 'ADSL', 'CABLEMODEM', 'DIAL UP', 'FIBRA OPTICA', 'OTROS', 'SATELITAL', 'WIMAX', 'WIRELESS'])
 
-    df_cordoba = pd.read_csv('DF_cordoba.csv')
+    df_cordoba = pd.read_csv(
+        'https://opcionerp.com/wp-content/uploads/DF_cordoba.csv')
     columns_to_convert = ['ADSL', 'CABLEMODEM', 'DIAL UP',
                           'FIBRA OPTICA', 'OTROS', 'SATELITAL', 'WIMAX', 'WIRELESS']
 
@@ -125,7 +126,8 @@ with tabs[2]:
         """, unsafe_allow_html=True)
     new_line()
 
-    DF_provincias = pd.read_csv('DF_provincias.csv')
+    DF_provincias = pd.read_csv(
+        'https://opcionerp.com/wp-content/uploads/DF_provincias.csv')
 
     # Colores en formato RGB con diferentes tonalidades
     violeta = [(0.4, 0.1, 0.4), (0.6, 0.3, 0.6)]
@@ -190,7 +192,7 @@ with tabs[3]:
     new_line()
 
     areas_baja_conectividad_cordoba = pd.read_csv(
-        'DF_areas_baja_conectividad.csv')
+        'https://opcionerp.com/wp-content/uploads/DF_areas_baja_conectividad.csv')
 
     primeras_10_localidades = areas_baja_conectividad_cordoba.head(10)
 
@@ -244,7 +246,7 @@ with tabs[4]:
         """, unsafe_allow_html=True)
     new_line()
 
-    df_kpi = pd.read_csv('KPI.csv')
+    df_kpi = pd.read_csv('https://opcionerp.com/wp-content/uploads/KPI.csv')
 
     # Selector de trimestre
     trimestres = df_kpi['Trimestre'].unique().astype('str')
@@ -286,7 +288,8 @@ with tabs[4]:
     new_line()
 
     # Grafico mi propuesta de KPI de aumento de velocidad del 5%
-    df_velocidad = pd.read_csv('KPI2.csv')
+    df_velocidad = pd.read_csv(
+        'https://opcionerp.com/wp-content/uploads/KPI2.csv')
 
     # Selector de trimestre
     trimestre = st.selectbox('Trimestres', trimestres, key="df_velocidad")
