@@ -1,5 +1,4 @@
 
-import folium
 import matplotlib
 import streamlit as st
 import pandas as pd
