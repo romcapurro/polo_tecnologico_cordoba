@@ -321,22 +321,19 @@ with tabs[4]:
    - Analisis de la velocidad media de Internet en diferentes provincias durante varios años y trimestres.
    - Se identificaron variaciones significativas en la velocidad media entre provincias y trimestres.
 
-2. Visualización y Análisis Gráfico:
-   - Utilización gráficos, como el boxplot, para visualizar la distribución de la velocidad media por provincia y trimestre.
-   - Se identificaron cuartiles, medianas y valores atípicos, lo que proporcionó información detallada sobre la variabilidad de la velocidad en cada región y período.
 
-3. Objetivo de Mejora y KPI:
+2. Objetivo de Mejora y KPI:
    - Propuesta de un objetivo de mejora del 5% en la velocidad media de Internet.
    - Nuevo KPI (Objetivo_KPI) para evaluar el progreso hacia ese objetivo.
 
-4. Análisis de Objetivo_KPI:
+3. Análisis de Objetivo_KPI:
    - Comparación la velocidad media actual con el objetivo del 5% para evaluar el rendimiento de cada provincia en cada trimestre.
    - Se identificaron provincias y trimestres que superaron o no alcanzaron el objetivo del 5%.
 
-5. Ajustes y Consideraciones Adicionales:
+4. Ajustes y Consideraciones Adicionales:
    - Se realizaron ajustes en la presentación de datos y se consideró la conversión de variables a categóricas para facilitar el análisis y la visualización.
 
-6. Conclusiones Específicas:
+5. Conclusiones Específicas:
    - Se proporcionaron observaciones específicas sobre provincias con buen rendimiento, aquellas que necesitan mejoras y patrones identificados en el análisis gráfico.
 
 
